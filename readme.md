@@ -66,3 +66,8 @@ validateEmail('invalid-email'); // false
 ## License
 
 This project is licensed under the MIT License.
+
+
+
+
+For any inquiries, please contact [Sumit kumar](s4sumit30@gmail.com).
