@@ -70,4 +70,4 @@ This project is licensed under the MIT License.
 
 
 
-For any inquiries, please contact [Sumit kumar](s4sumit30@gmail.com).
+For any inquiries, please contact [Sumit kumar]()- s4sumit30@gmail.com.
